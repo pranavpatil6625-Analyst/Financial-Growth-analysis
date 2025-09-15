@@ -75,14 +75,13 @@ The dataset includes the following columns:
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot]()
-
-
-
-
 ## 🙋‍♂️ Author
 
 **Pranav Patil**
 Aspiring Data Analyst | Finance & Data Enthusiast
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/pranavpatil6625-Analyst/Financial-Growth-analysis/blob/main/financial%20dashboard%20image.png)
+
